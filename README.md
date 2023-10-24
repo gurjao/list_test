@@ -13,9 +13,9 @@ Os candidatos devem ser capazes de lista Tarefas , CPF, Responsável, Prazo de e
 - [x] Crie um serviço chamado TarefaService que gerencie a lista de tarefas. 
 - [x] O serviço deve ter métodos para adicionar, listar, marcar como concluído e remover tarefas.
 - [x] Adicione um formulário no componente TarefaListaComponent que permita aos usuários adicionar novas tarefas à lista.
-- [] Adicione uma funcionalidade de filtro para exibir apenas tarefas concluídas ou não concluídas.
-- [] Implemente um mecanismo simples de armazenamento local para persistir as tarefas, de modo que elas não sejam perdidas ao atualizar a página.
-- [] Estilize a aplicação de acordo com o protótipo  
+- [ ] Adicione uma funcionalidade de filtro para exibir apenas tarefas concluídas ou não concluídas.
+- [ ] Implemente um mecanismo simples de armazenamento local para persistir as tarefas, de modo que elas não sejam perdidas ao atualizar a página.
+- [ ] Estilize a aplicação de acordo com o protótipo  
 
 --------
 
